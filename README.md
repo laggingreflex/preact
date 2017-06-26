@@ -110,6 +110,7 @@ Preact supports modern browsers and IE9+:
 - :shaved_ice: [**preact-codemod**](https://github.com/vutran/preact-codemod): Transform your React code to Preact.
 - :construction_worker: [**preact-helmet**](https://github.com/download/preact-helmet): A document head manager for Preact
 - :necktie: [**preact-delegate**](https://github.com/NekR/preact-delegate): Delegate DOM events
+- :ghost: [**preact-fade**](https://github.com/laggingreflex/preact-fade): Fade in/out transitions
 
 #### UI Component Libraries
 
